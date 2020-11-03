@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a croissant ... and changes
+title: Great coffee with a croissant - blib
 subtitle: Support sustainable farming while enjoying a cuppa
 image: /img/home-jumbotron.jpg
 blurb:
